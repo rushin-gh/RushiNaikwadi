@@ -5,3 +5,6 @@ C#
 	4. Compiler -> Compilation
 	5. *.dll (Dynamic Link Library)
 	6. Clean, Build, Rebuild, Transform all templates
+	7. required - Keyword
+	8. enum in c#
+	9. nullable (keep enabled or disabled), null coleasing and null forgiving operator, .HasValue(), .Value()
