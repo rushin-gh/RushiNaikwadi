@@ -9,3 +9,54 @@ C#
 	8. enum in c#
 	9. nullable (keep enabled or disabled), null coleasing and null forgiving operator, 
 	10. [.HasValue, .Value] -> Works only with value types
+	
+JS
+	1. Weakly typed
+	2. Dynamic / Interpreted
+	3. defer Keyword
+	4. JS Engines - V8(Chrome), SpiderMonkey(Firefox)
+	5. Browser Side (Js) / Server Side (Node.js)
+	6. var / let / const
+		> Block vs Function scope
+		> avoid using var due to scoping issue
+	7. console.log()
+	8. console.table([])
+	9. undefined / null / NaN (Not a number)
+	10. value / val() / textContent
+		> value : JS method, works with forms elements
+		> val() : JQuery method, works with forms elements
+		> textContent : works with all elements
+	11. Template literals / string interpolation
+		> backticks (``)
+	12.  Order of referencing js files in html is important
+	13. toastr
+		> Js Library
+		> Depends on JQuery
+	14. Local / Global Scope
+	15. Shaddowing
+		> Variables with same name but in different scope
+	16. Function
+		> return - can be used to stop function execution mid-way
+	17. .addEventListener(event, function)
+		> What function should be called if event occurs
+		> Send function as Reference
+	18. Input in JS are always strings
+	19. Conversion in Int from String
+		> parseInt()
+		> +data
+	20. Arthimetic operators behaviour
+		> 1 + '1' = '11' (Special case)
+		> 1 - '1' = 0
+		> 1 * '1' = 1
+		> 1 / '1' = 1
+	21. Number("") = 0
+		> Data conversion
+	22. Datatypes
+		> Numbers - Integers, Floats
+		> Strings - '', ``, ""
+		> Booleans - true, false
+		> Objects - {}
+		> Arrays - []
+	23. Arrays
+		> push() -> Pushes element and returns length	
+	25. typeof - operator
