@@ -7,4 +7,5 @@ C#
 	6. Clean, Build, Rebuild, Transform all templates
 	7. required - Keyword
 	8. enum in c#
-	9. nullable (keep enabled or disabled), null coleasing and null forgiving operator, .HasValue(), .Value()
+	9. nullable (keep enabled or disabled), null coleasing and null forgiving operator, 
+	10. [.HasValue, .Value] -> Works only with value types
