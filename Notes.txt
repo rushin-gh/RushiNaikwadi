@@ -1,0 +1,7 @@
+C#
+	1. Integrated Development Environment (IDE)
+	2. Comments
+	3. Source Code
+	4. Compiler -> Compilation
+	5. *.dll (Dynamic Link Library)
+	6. Clean, Build, Rebuild, Transform all templates
